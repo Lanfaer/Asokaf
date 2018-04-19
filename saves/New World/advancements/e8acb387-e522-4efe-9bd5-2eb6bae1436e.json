@@ -1,0 +1,33 @@
+{
+  "triumph:example/root": {
+    "criteria": {
+      "location": "2018-04-19 19:55:06 +0200"
+    },
+    "done": true
+  },
+  "triumph:example/example_enter_biome": {
+    "criteria": {
+      "entered_forest": "2018-04-19 20:05:42 +0200"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-04-19 20:05:42 +0200",
+      "swampland": "2018-04-19 19:57:14 +0200",
+      "birch_forest": "2018-04-19 20:07:14 +0200",
+      "deep_ocean": "2018-04-19 19:56:26 +0200",
+      "beaches": "2018-04-19 19:56:53 +0200",
+      "extreme_hills_with_trees": "2018-04-19 20:07:47 +0200",
+      "forest_hills": "2018-04-19 19:55:06 +0200",
+      "plains": "2018-04-19 19:57:40 +0200",
+      "birch_forest_hills": "2018-04-19 20:07:09 +0200",
+      "ocean": "2018-04-19 19:56:18 +0200",
+      "extreme_hills": "2018-04-19 19:55:55 +0200",
+      "roofed_forest": "2018-04-19 19:57:35 +0200",
+      "river": "2018-04-19 19:56:17 +0200",
+      "stone_beach": "2018-04-19 19:56:18 +0200"
+    },
+    "done": false
+  }
+}
